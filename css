@@ -1,3 +1,4 @@
 scroll-padding : 2rem; // for sticky when scrolling
 hsl for color
 place div in center using flex .parent { display:flex; align-items:center; justify-content:center; or grid { display:grid; place-items:center;
+clamp(min,value,max) <<<<<
